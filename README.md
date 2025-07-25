@@ -93,9 +93,9 @@ JDBC URL: jdbc:h2:mem:alumnosdb
 usuario: sa
 contraseña: dejarlo vacio
 
-# Autor 
-Desarrollador Java Spring Boot
-Juan Carlos Inostroza.
+# Autor  
+Desarrollador Java Spring Boot  
+Juan Carlos Inostroza.  
 
 ## Nota técnica
 
